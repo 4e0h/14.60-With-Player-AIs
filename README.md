@@ -17,6 +17,8 @@
     <li>Fall damage disabled</li>
     <li>Elims working (if you are by yourself lol)</li>
     <li>Player ais thanking the bus driver</li>
+    <li>Player ais having different skins</li>
+    <li>Weapons being granted on spawn</li>
     <li>All erbium commands enabled (obv lol)</li>
   </ul>
 </details>
@@ -25,7 +27,6 @@
   <summary>Hopefully To Be Added Soon Features</summary>
   <ul>
     <li>Proper navigation</li>
-    <li>Player ais with different skins</li>
     <li>Working storm with no crashes</li>
     <li>Short commands/Quick commands (eg. "cheat pump" gives a gold pump)</li>
     <li>Working individual elims</li>
