@@ -1,6 +1,6 @@
 ## An ogfn gameserver for v14.60 with player AIs using erbium as a base.
 
-<details>
+<details open>
   <summary>Current Issues</summary>
   <ul>
     <li>No Storm</li>
@@ -10,7 +10,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>Working As Expected Features</summary>
   <ul>
     <li>Automatic god mode</li>
@@ -23,7 +23,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>Hopefully To Be Added Soon Features</summary>
   <ul>
     <li>Proper navigation</li>
@@ -34,7 +34,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>Credits</summary>
   <ul>
     <li>Ploosh for erbium (the base code)</li>
