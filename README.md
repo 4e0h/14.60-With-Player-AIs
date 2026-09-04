@@ -1,4 +1,4 @@
-## A gameserver for v14.60 of FN with player AIs using erbium as a base.
+## An ogfn gameserver for v14.60 with player AIs using erbium as a base.
 
 <details>
   <summary>Current Issues</summary>
