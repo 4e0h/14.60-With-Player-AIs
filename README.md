@@ -7,6 +7,8 @@
     <li>Little movement from player ais</li>
     <li>No loot dropping from player ais</li>
     <li>When a player is eliminated all real players receive the elim</li>
+    <li>No victory/win is granted when player count hits 1</li>
+    <li>A player ai (Frozt9Byte) will go on your team</li>
   </ul>
 </details>
 
@@ -28,9 +30,10 @@
   <ul>
     <li>Proper navigation</li>
     <li>Working storm with no crashes</li>
-    <li>Short commands/Quick commands (eg. "cheat pump" gives a gold pump)</li>
+    <li>A gui to make spawning things/managing the gameserver easier</li>
     <li>Working individual elims</li>
     <li>Player ais fighting eachother</li>
+    <li>Bosses and henchmen</li>
   </ul>
 </details>
 
