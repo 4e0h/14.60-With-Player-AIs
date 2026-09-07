@@ -7,8 +7,6 @@
     <li>Little movement from player ais</li>
     <li>No loot dropping from player ais</li>
     <li>When a player is eliminated all real players receive the elim</li>
-    <li>No victory/win is granted when player count hits 1</li>
-    <li>A player ai (Frozt9Byte) will go on your team</li>
   </ul>
 </details>
 
@@ -22,6 +20,8 @@
     <li>Player ais having different skins</li>
     <li>Weapons being granted on spawn</li>
     <li>All erbium commands enabled (obv lol)</li>
+    <li>Player ais are all on separate teams</li>
+    <li>Wins should be working...</li>
   </ul>
 </details>
 
