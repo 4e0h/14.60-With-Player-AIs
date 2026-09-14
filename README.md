@@ -3,37 +3,34 @@
 <details open>
   <summary>Current Issues</summary>
   <ul>
-    <li>No Storm</li>
-    <li>Little movement from player ais</li>
+    <li>Player ais dont have the full map to run around</li>
     <li>No loot dropping from player ais</li>
-    <li>When a player is eliminated all real players receive the elim</li>
   </ul>
 </details>
 
 <details open>
   <summary>Working As Expected Features</summary>
   <ul>
-    <li>Automatic god mode</li>
     <li>Fall damage disabled</li>
-    <li>Elims working (if you are by yourself lol)</li>
+    <li>Elims working</li>
     <li>Player ais thanking the bus driver</li>
     <li>Player ais having different skins</li>
     <li>Weapons being granted on spawn</li>
-    <li>All erbium commands enabled (obv lol)</li>
+    <li>Quick commands (check discord.gg/ZVTBWDjvFv for the list)</li>
     <li>Player ais are all on separate teams</li>
-    <li>Wins should be working...</li>
+    <li>Wins are working</li>
+    <li>Storm closes like regular games</li>
+    <li>Player ais move to next zone</li>
   </ul>
 </details>
 
 <details open>
   <summary>Hopefully To Be Added Soon Features</summary>
   <ul>
-    <li>Proper navigation</li>
-    <li>Working storm with no crashes</li>
-    <li>A gui to make spawning things/managing the gameserver easier</li>
-    <li>Working individual elims</li>
-    <li>Player ais fighting eachother</li>
     <li>Bosses and henchmen</li>
+    <li>Player ais dropping loot</li>
+    <li>More room for the player ais to run around</li>
+    <li>More hotkeys</li>
   </ul>
 </details>
 
