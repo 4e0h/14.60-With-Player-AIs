@@ -5,7 +5,6 @@
   <ul>
     <li>Player ais dont have the full map to run around</li>
     <li>No loot dropping from player ais</li>
-    <li>Player ais dont carry over when playing with other ppl</li>
   </ul>
 </details>
 
@@ -22,6 +21,7 @@
     <li>Wins are working</li>
     <li>Storm closes like regular games</li>
     <li>Player ais move to next zone</li>
+    <li>Player ais function correctly when playing with friends/others</li>
   </ul>
 </details>
 
