@@ -4,7 +4,6 @@
   <summary>Current Issues</summary>
   <ul>
     <li>Player ais dont have the full map to run around</li>
-    <li>No loot dropping from player ais</li>
   </ul>
 </details>
 
@@ -22,6 +21,7 @@
     <li>Storm closes like regular games</li>
     <li>Player ais move to next zone</li>
     <li>Player ais function correctly when playing with friends/others</li>
+    <li>Player drop whatever they're holding</li>
   </ul>
 </details>
 
@@ -29,7 +29,6 @@
   <summary>Hopefully To Be Added Soon Features</summary>
   <ul>
     <li>Bosses and henchmen</li>
-    <li>Player ais dropping loot</li>
     <li>More room for the player ais to run around</li>
     <li>More hotkeys</li>
   </ul>
